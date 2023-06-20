@@ -1,6 +1,7 @@
 # frozen_string_literal: true
 
 puts 'Assignment One Initialized'
+puts 'Fibonaccie Series'
 
 def fibs(num)
   sequence = [0, 1]
