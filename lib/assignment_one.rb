@@ -24,5 +24,3 @@ fibs = []
 (0..num - 1).each do |i|
   fibs << fibs_rec(i)
 end
-
-p fibs
