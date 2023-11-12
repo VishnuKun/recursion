@@ -1,4 +1,3 @@
-
 # Recursion
 
 Project explores the concept of recursion in programming and its application through these methods as examples.
@@ -25,10 +24,10 @@ Recursion is a powerful technique in the programming, in which a function calls 
 To run the examples in this project, you need to have a compatible programming environment set up. Here are the installation steps:
 
 1. Clone this repository to your local machine using the following command:
-``git clone git@github.com:VishnuKun/recursion.git``
+   `git clone git@github.com:VishnuKun/recursion.git`
 
 2. Navigate to the project directory:
-``cd recursion``
+   `cd recursion`
 
 3. Install any required dependencies, if applicable.
 
@@ -37,12 +36,12 @@ To run the examples in this project, you need to have a compatible programming e
 ## Usage
 
 1. To use Fibonacci type in the terminal:
-``ruby lib/assignment_one.rb``
+   `ruby lib/assignment_one.rb`
 
 If you want to get the sequence upto your desired number, just navigate to assignment one file:
-``cd lib/assignment_one.rb``
+`cd lib/assignment_one.rb`
 
 And change the num variable to your desired number.
 
 2. To use Merge Sort type in the terminal:
-``ruby lib/assignment_two.rb``
+   `ruby lib/assignment_two.rb`
